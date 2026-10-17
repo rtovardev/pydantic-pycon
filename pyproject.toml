@@ -1,0 +1,19 @@
+[project]
+name = "pydantic-pycon"
+version = "0.1.0"
+description = "Ejemplos y material de la charla «Agentes de IA con Pydantic AI» (PyCon Panamá 2026)"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic-ai-slim==2.56.0",
+    "fastapi>=0.115",
+    "asyncpg>=0.30",
+    "uvicorn>=0.32",
+]
+
+[dependency-groups]
+dev = ["pytest>=8", "pytest-asyncio>=0.24", "httpx>=0.27"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+pythonpath = ["."]
