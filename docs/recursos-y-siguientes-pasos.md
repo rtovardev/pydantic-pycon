@@ -44,11 +44,10 @@ Multiagentes y grafos quedan fuera de esta charla y de este material. Son lectur
 
 ## Siguientes pasos
 
-1. Clona el repositorio y corre `uv run pytest`.
-2. Lee `examples/agente.py` y cambia la categoría de salida. Mira qué prueba falla.
-3. Escribe una segunda herramienta y pruébala con `TestModel`.
-4. Corre el servicio con un modelo y revisa las trazas.
-5. Elige un trabajo concreto de tu dominio y define su contexto, sus herramientas y cómo sabrás que salió bien.
+1. Crea un agente mínimo con `output_type` y cambia la categoría de salida. Mira qué prueba falla.
+2. Escribe una segunda herramienta y pruébala con `TestModel`.
+3. Corre el servicio con un modelo y revisa las trazas.
+4. Elige un trabajo concreto de tu dominio y define su contexto, sus herramientas y cómo sabrás que salió bien.
 
 ## Una advertencia
 
