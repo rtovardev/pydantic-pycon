@@ -77,7 +77,3 @@ Escalar es operar con control bajo carga.
 - El harness hace fiable al modelo.
 - Un agente, un trabajo.
 - Validar la forma de una salida no prueba que sea verdadera.
-
-## Este repositorio
-
-El código de los ejemplos y sus pruebas están en el repositorio `pydantic-pycon`. Las instrucciones para correrlos están en su `README`. El agente de la demostración en vivo se añadirá después de la charla.
