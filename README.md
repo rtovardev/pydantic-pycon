@@ -1,15 +1,12 @@
 # pydantic-pycon
 
-Recursos de la charla **«Agentes de IA con Pydantic AI: de cero a producción con menos magia y más ingeniería»**, presentada en PyCon Panamá 2026.
+Material de la charla **«Agentes de IA con Pydantic AI: de cero a producción con menos magia y más ingeniería»**, presentada en PyCon Panamá 2026.
 
 ## Contenido
 
-| Ruta | Qué es |
-|---|---|
-| `docs/resumen-charla.pdf` | Resumen del material de la charla |
-| `docs/recursos-y-siguientes-pasos.pdf` | Referencias, temas para profundizar y siguientes pasos |
+Todo está en una sola guía en PDF: [`docs/Guia-de-la-charla-Agentes-de-IA-con-Pydantic-AI.pdf`](docs/Guia-de-la-charla-Agentes-de-IA-con-Pydantic-AI.pdf).
 
-Las versiones en Markdown (`docs/*.md`) tienen el mismo contenido.
+Incluye el informe de la charla con una explicación de cada tema, el código mostrado línea por línea, un glosario, cuatro pasos para practicar, cursos sugeridos para profundizar con lo que cubre cada uno, lecturas con su explicación y temas para seguir.
 
 ## Una advertencia
 
@@ -17,4 +14,4 @@ Una salida validada cumple un contrato de forma. No garantiza que el contenido s
 
 ## Licencia
 
-Los documentos de `docs/` se publican bajo [CC BY 4.0](LICENSE-docs).
+La guía se publica bajo [CC BY 4.0](LICENSE-docs).
