@@ -12,6 +12,6 @@ Incluye el informe de la charla con una explicación de cada tema, el código mo
 
 Una salida validada cumple un contrato de forma. No garantiza que el contenido sea verdadero ni que cada ejecución tenga éxito. Para eso están las pruebas, los límites y la revisión.
 
-## Licencia
+## Uso
 
-La guía se publica bajo [CC BY 4.0](LICENSE-docs).
+La guía es para estudio personal. Para reutilizarla, lee el [aviso de uso](AVISO-DE-USO.md).
